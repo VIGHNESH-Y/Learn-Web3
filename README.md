@@ -9,3 +9,5 @@ Learn WEB3 :)
 # DAY -2 
 
 - Wrote my second smart contract using Solidity.
+- Wrote a smart contract which could perform operations like a calculator.
+- 
