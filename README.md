@@ -11,4 +11,4 @@ Learn WEB3 :)
 - Wrote my second smart contract using Solidity.
 - Wrote a smart contract which could perform operations like a calculator.
 - Had defined an function inside of the smart contract.
-- 
+  
