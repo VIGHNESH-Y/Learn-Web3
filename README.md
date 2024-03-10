@@ -20,4 +20,4 @@ Learn WEB3 :)
 
 # Future Plans
 
-I plan to build an more bigger WEB3 Project after gaining Handfs on Experience in WEB3 
+I plan to build an more bigger WEB3 Project after gaining Hands on Experience in WEB3 
